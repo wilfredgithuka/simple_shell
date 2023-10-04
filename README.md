@@ -7,7 +7,7 @@
 
 ## Time Frame
 
-* September 5th to September 21st 2023
+* October 4th to October 18th 2023
 
 ### Simple Shell project for ALX
 
