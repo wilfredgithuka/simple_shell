@@ -2,7 +2,7 @@
 
 ## Team Members
 
-* Ifejika Ikechukwu 
+* Muluken Tenaw 
 * Wilfred Githuka
 
 ## Time Frame
